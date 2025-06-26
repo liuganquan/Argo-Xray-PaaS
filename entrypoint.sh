@@ -21,7 +21,7 @@ cat > config.json << EOF
                 "clients":[
                     {
                         "id":"${UUID}",
-                        "flow":"none"
+                        "flow":""
                     }
                 ],
                 "decryption":"none",
